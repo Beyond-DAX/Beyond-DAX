@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/image.png" alt="profile image" width="200"/>
+  <img src="https://github.com/Beyond-DAX/Beyond-DAX/blob/main/conny-schneider-xuTJZ7uD7PI-unsplash.jpg" alt="profile image" width="200"/>
 </p>
 #  Dax & Beyond II Data Analysis & Dashboarding 
 
