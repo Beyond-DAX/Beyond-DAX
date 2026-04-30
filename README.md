@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://your-image-url.com/image.png" alt="profile image" width="200"/>
+</p>
 #  Dax & Beyond II Data Analysis & Dashboarding 
 
 Data Analytics | Advanced DAX | Label Engineering | Business Intelligence | Supply Chain Analytics
