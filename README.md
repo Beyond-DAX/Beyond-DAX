@@ -80,8 +80,8 @@ SWITCH(
 
 ## 📬 Contact
 
-💼 LinkedIn: Add your profile  
-📧 Email: Add your email  
+💼 LinkedIn: Add your pro  
+📧 Email: Kumarnikhil988900"gmail.com
 🌐 Portfolio: Add your link  
 
 ---
